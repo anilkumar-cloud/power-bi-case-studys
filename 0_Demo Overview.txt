@@ -1,0 +1,83 @@
+Demo Overview:
+
+a) How many types of data available?
+	3 types 
+	1. Unstructured	2. Semi-structured	3. Structured
+b) How many types of IT applications available?
+	Many types, importantly 
+	1> OLTP: Online Transaction Processing  2> OLAP: Online Analytical Processing
+c) What is BI?
+	BI: Business Intelligence
+	Type: Decision making or Analysis type
+	
+	Def: BI is the process of converting normal data into decision making data
+d) What is the input and output of BI?
+	Input: Any, Anywhere, AnyType  Data
+	Outpue: Report / Dashboard
+e) Single line difference between Report and Dashboard?
+	Report:Individual Operation display component
+	Dashboard: Multiple operations high level data display component
+f) What is BI Process?
+	It is a layered process and containing 5 layers
+	a) ETL Layer: Brings data, perform operations , and load
+	b) Warehouse Layer: Huge Storage Area
+	c) Semantic Layer: Meaningful data creation area, specific data storage and usage area
+	d) Reporting Layer: Generate reports and dsahboards
+	e) Quality Layer: Ensure the data quality before moving to warehouse
+	f) Metadata Layer: Maintains structure properly in the warehouse
+	
+g) What is MSBI?
+	Microsoft Business Intelligence [SQL Server Business Intelligence]
+	It has 
+	SSIS
+	SSAS
+	SSRS
+	DQS
+	MDS
+	Release : 2005
+	Versions: Every 2-3 years
+	Def: A SSBI Suite with multiple tools to perform end-end operations and generate report and dashboard.
+h) What is Power BI?
+	"Powering Existing BI"
+	Release: 2013 July
+	Versiong: Monthly updates, no versions
+	Def: A SSBI low-code and cloud and on-premise supportive application with multiple concepts to perform  end-end operations and generate report and dashboard.
+
+i) What is Azure BI?
+	Cloud: SOmebody else's storage area
+	Req: Cloud URL and Account
+	Types: Data, Service, Platform etc.
+	
+	Data Cloud: Google Drive [drive.google.com], OneDrive [OneDrive.in]
+					  15 GB Free, 100GB Rs.131+ taxes /month   2 TB: 650+ Taxes /month
+	Streaming clouds: Prime Video, Netflix etc.
+				Mobile and TV accounts, Single user and multi users accounts are different.
+				Mobile: Rs. 199    TV and multiple users:1400 / month
+	Microsoft Azure:  A rich cloud platform with various services [iaas, paas, saas etc.]
+						Ex: Data, Servers, Platforms, BI, AI, Data Science etc.
+	Azure BI:
+			If you perform BI operations in Azure, then it is called as Azure BI.
+			Ex: ADF [Azure Data Factory], Synapse, AAS[Azure Analysis Services], SNowflake, Data Lake etc.
+			
+NOte: MSBI and Power BI are available with physical names and software, whereas Azure BI is a logical name.
+
+
+
+j) What is Power Platform?
+	A low-code platform given in 2019 to perform various operations [Power BI is part of Power Platform]
+	a) Power BI  b) Power Apps  c) Power Automate d) Power Pages  e) Virtual Agent
+
+k) What is Microsoft Fabric?
+     Fabric is a market suitable BI suite with the below components
+	1. Data Factory: Data Integration
+	2. Synpase: Data Storage and Analytics
+	3. Power BI: Reporting and Visualization
+	4. Data Activator:  Monitoring and Governance
+	Release: 2023 June-End
+
+l) What type of projects you find and existence of Power BI in the projects?
+
+
+m) What is the order of Powrer BI Course Better learning and trying for Interviews?
+
+	
