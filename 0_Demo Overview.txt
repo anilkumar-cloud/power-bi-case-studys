@@ -1,3 +1,6 @@
+POWER BI   DEMO  NEW
+
+
 Demo Overview:
 
 a) How many types of data available?
@@ -76,6 +79,10 @@ k) What is Microsoft Fabric?
 	Release: 2023 June-End
 
 l) What type of projects you find and existence of Power BI in the projects?
+
+
+
+hihii
 
 
 m) What is the order of Powrer BI Course Better learning and trying for Interviews?
